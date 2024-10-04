@@ -1,0 +1,15 @@
+/home/mariana/Projetos/curso-full-stack-senai/sistemaControleClientes/bin/Debug/net8.0/sistemaControleClientes
+/home/mariana/Projetos/curso-full-stack-senai/sistemaControleClientes/bin/Debug/net8.0/sistemaControleClientes.deps.json
+/home/mariana/Projetos/curso-full-stack-senai/sistemaControleClientes/bin/Debug/net8.0/sistemaControleClientes.runtimeconfig.json
+/home/mariana/Projetos/curso-full-stack-senai/sistemaControleClientes/bin/Debug/net8.0/sistemaControleClientes.dll
+/home/mariana/Projetos/curso-full-stack-senai/sistemaControleClientes/bin/Debug/net8.0/sistemaControleClientes.pdb
+/home/mariana/Projetos/curso-full-stack-senai/sistemaControleClientes/obj/Debug/net8.0/sistemaControleClientes.GeneratedMSBuildEditorConfig.editorconfig
+/home/mariana/Projetos/curso-full-stack-senai/sistemaControleClientes/obj/Debug/net8.0/sistemaControleClientes.AssemblyInfoInputs.cache
+/home/mariana/Projetos/curso-full-stack-senai/sistemaControleClientes/obj/Debug/net8.0/sistemaControleClientes.AssemblyInfo.cs
+/home/mariana/Projetos/curso-full-stack-senai/sistemaControleClientes/obj/Debug/net8.0/sistemaControleClientes.csproj.CoreCompileInputs.cache
+/home/mariana/Projetos/curso-full-stack-senai/sistemaControleClientes/obj/Debug/net8.0/sistemaControleClientes.sourcelink.json
+/home/mariana/Projetos/curso-full-stack-senai/sistemaControleClientes/obj/Debug/net8.0/sistemaControleClientes.dll
+/home/mariana/Projetos/curso-full-stack-senai/sistemaControleClientes/obj/Debug/net8.0/refint/sistemaControleClientes.dll
+/home/mariana/Projetos/curso-full-stack-senai/sistemaControleClientes/obj/Debug/net8.0/sistemaControleClientes.pdb
+/home/mariana/Projetos/curso-full-stack-senai/sistemaControleClientes/obj/Debug/net8.0/sistemaControleClientes.genruntimeconfig.cache
+/home/mariana/Projetos/curso-full-stack-senai/sistemaControleClientes/obj/Debug/net8.0/ref/sistemaControleClientes.dll

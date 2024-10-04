@@ -1,0 +1,70 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/mariana/Projetos/curso-full-stack-senai/projetoWebLHPets/projetoWebLHPets.csproj": {}
+  },
+  "projects": {
+    "/home/mariana/Projetos/curso-full-stack-senai/projetoWebLHPets/projetoWebLHPets.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/mariana/Projetos/curso-full-stack-senai/projetoWebLHPets/projetoWebLHPets.csproj",
+        "projectName": "projetoWebLHPets",
+        "projectPath": "/home/mariana/Projetos/curso-full-stack-senai/projetoWebLHPets/projetoWebLHPets.csproj",
+        "packagesPath": "/home/mariana/.nuget/packages/",
+        "outputPath": "/home/mariana/Projetos/curso-full-stack-senai/projetoWebLHPets/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/mariana/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/8.0.104/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
